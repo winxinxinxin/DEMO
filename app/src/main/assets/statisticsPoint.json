@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "viewPath": "MainActivity:TraceTextView:textView",
+      "columnid": "01"
+    },
+    {
+      "viewPath": "MainActivity:TraceImageView:imageView",
+      "columnid": "02"
+    },
+    {
+      "viewPath": "MainActivity:TraceButton:button",
+      "columnid": "03"
+    },
+    {
+      "viewPath": "MainActivity:MainFragment:TraceTextView:textView",
+      "columnid": "04"
+    },
+    {
+      "viewPath": "MainActivity:MainFragment:TraceImageView:imageView",
+      "columnid": "05"
+    },
+    {
+      "viewPath": "MainActivity:MainFragment:TraceButton:button",
+      "columnid": "06"
+    }
+
+  ]
+}
