@@ -28,6 +28,7 @@ public class MainFragment extends Fragment {
     private ImageView imageView;
     private Button button;
 
+
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
